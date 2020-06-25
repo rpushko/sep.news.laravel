@@ -31,14 +31,14 @@
             }
 
             .title {
-                font-size: 50px;
+                font-size: 96px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Welcome to our news site!</div>
+                <div class="title">Welcome to our new site!</div>
                 <a href link='#' >see more</a>
             </div>
         </div>
